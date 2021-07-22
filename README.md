@@ -40,11 +40,11 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<br/>
+
 ---
 <div align="center">
-<a href="https://github.com/ratko-sim/github-readme-stats">
-  <img width=450 align="center" src="https://github-readme-stats-ratko-sim.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
+<a href="https://github.com/awartanian/github-readme-stats">
+  <img width=450 align="center" src="https://github-readme-stats-awartanian.vercel.app/api?username=awartanian&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
 </a>
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
