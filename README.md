@@ -33,9 +33,13 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-Coming soon-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/arty-wartanian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:awartanian@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-awartanian@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/arty-wartanian/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+<a href="https://www.linkedin.com/in/arty-wartanian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arty%20Wartanian-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:awartanian@hotmail.com">
+  <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
+</a>
 </p>
 
 ---
