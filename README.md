@@ -6,7 +6,6 @@
 - 🧐 &nbsp; Motivated, self-driven, loving my newfound passion in web development since 09/2020. 
 - 🎓 &nbsp; Attending a full-stack web development course at DCI Digital Career Institute gGmbH.
 - 🌱 &nbsp; Currently learning backend development using NodeJS, ExpressJS and MongoDB.
-<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -29,7 +28,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
-<br/>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
