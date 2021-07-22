@@ -6,9 +6,9 @@
 - 🧐 &nbsp; Motivated, self-driven, loving my newfound passion in web development since 09/2020. 
 - 🎓 &nbsp; Attending a full-stack web development course at DCI Digital Career Institute gGmbH.
 - 🌱 &nbsp; Currently learning backend development using NodeJS, ExpressJS and MongoDB.
+<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -29,6 +29,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
+<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -37,7 +38,7 @@
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+<br/>
 
 ---
 <div align="center">
