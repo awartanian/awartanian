@@ -32,13 +32,6 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api?username=awartanian&show_icons=true&theme=dark" />
-  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awartanian&theme=dark&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -46,3 +39,15 @@
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<br/>
+---
+<div align="center">
+<a href="https://github.com/ratko-sim/github-readme-stats">
+  <img width=450 align="center" src="https://github-readme-stats-ratko-sim.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
+</a>
+
+<a href="https://github.com/ratko-sim/github-readme-stats">
+  <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=4" />
+</a> 
+</div>
