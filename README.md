@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨‍💻 &nbsp; Motivated, self-driven and loving my newfound passion in web development since 09/2020. 
+- 🧐 &nbsp; Motivated, self-driven and loving my newfound passion in web development since 09/2020. 
 - 🎓 &nbsp; Attending a full-stack web development course at DCI Digital Career Institute gGmbH.
 - 🌱 &nbsp; I’m currently learning backend development using NodeJS, ExpressJS and MongoDB.
 
@@ -40,8 +40,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awartanian&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api?username=awartanian&show_icons=true&theme=dark" />
+  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awartanian&theme=dark&layout=compact" />
 </a>
 
 <br/>
