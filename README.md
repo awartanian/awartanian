@@ -34,9 +34,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arty-wartanian/">
-   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
-<a href="https://www.linkedin.com/in/arty-wartanian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arty%20Wartanian-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:awartanian@hotmail.com">
   <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>
