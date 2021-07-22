@@ -1,11 +1,11 @@
 
-<h2> Hey there! I'm Arty.</h2>
+<h2> Hey there! I'm Arty!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🧐 &nbsp; Motivated, self-driven and loving my newfound passion in web development since 09/2020. 
+- 🧐 &nbsp; Motivated, self-driven, loving my newfound passion in web development since 09/2020. 
 - 🎓 &nbsp; Attending a full-stack web development course at DCI Digital Career Institute gGmbH.
-- 🌱 &nbsp; I’m currently learning backend development using NodeJS, ExpressJS and MongoDB.
+- 🌱 &nbsp; Currently learning backend development using NodeJS, ExpressJS and MongoDB.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,8 +43,8 @@
 
 ---
 <div align="center">
-<a href="https://github.com/awartanian/github-readme-stats">
-  <img width=450 align="center" src="https://github-readme-stats-awartanian.vercel.app/api?username=awartanian&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
+<a href="https://github.com/ratko-sim/github-readme-stats">
+  <img width=450 align="center" src="https://github-readme-stats-ratko-sim.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
 </a>
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
