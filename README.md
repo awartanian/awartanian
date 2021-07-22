@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🧐 &nbsp; Motivated, self-driven, loving my newfound passion in web development since 09/2020. 
+- 🧐 &nbsp; Motivated, self-driven and loving my newfound passion in web development since 09/2020. 
 - 🎓 &nbsp; Attending a full-stack web development course at DCI Digital Career Institute gGmbH.
 - 🌱 &nbsp; Currently learning backend development using NodeJS, ExpressJS and MongoDB.
 
