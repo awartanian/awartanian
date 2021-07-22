@@ -31,7 +31,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
 
 <br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
