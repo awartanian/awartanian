@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 <a href="mailto:awartanian@hotmail.com">
-  <img src="https://img.shields.io/badge/mail-F5AF3A?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>
 </p>
 
