@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="">
-  <img src="https://img.shields.io/badge/Portfolio_website_(coming_soon)-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio_website_(coming_soon)-DC4C51?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/arty-wartanian/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
