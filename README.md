@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Portfolio-DC4C51?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </a>
   <a href="mailto:awartanian@hotmail.com">
-  <img src="https://img.shields.io/badge/mail-FFA432?style=for-the-badge&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mail-FFA432?style=for-the-badge&logo=icloud&logoColor=FFA432"/>
 </a>
 <a href="https://www.linkedin.com/in/arty-wartanian/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
