@@ -10,7 +10,8 @@
 
 <a href="#">
   <img align="right" width=260 height=188 src="./MERN-pic.png" />
-</a> &nbsp;
+</a>
+&emsp;
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
