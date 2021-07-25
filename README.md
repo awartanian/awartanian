@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="">
+<a href="" width=260>
   <img src="https://img.shields.io/badge/Portfolio-DC4C51?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/arty-wartanian/">
