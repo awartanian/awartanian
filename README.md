@@ -9,7 +9,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <a href="#">
-  <img align="right" width=200 height=188 src="./MERN-pic.png" />
+  <img align="right" width=250 height=188 src="./MERN-pic.png" />
 </a> 
 
 - 🌐 &nbsp;
