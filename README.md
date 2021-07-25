@@ -37,14 +37,15 @@
 
 <p align="center">
 <a href="" >
-  <img src="https://img.shields.io/badge/Portfolio-DC4C51?style=for-the-badge&logo=Google-chrome&logoColor=white" width=150 height=50/>
+  <img src="https://img.shields.io/badge/Portfolio-DC4C51?style=for-the-badge&logo=Google-chrome&logoColor=white" width=160 height=50/>
+</a>
+  <a href="mailto:awartanian@hotmail.com">
+  <img src="https://img.shields.io/badge/mail-orange?style=for-the-badge&logo=icloud&logoColor=white" width=160 height=50/>
 </a>
 <a href="https://www.linkedin.com/in/arty-wartanian/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=150 height=50/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=160 height=50/>
 </a>  
-<a href="mailto:awartanian@hotmail.com">
-  <img src="https://img.shields.io/badge/mail-orange?style=for-the-badge&logo=icloud&logoColor=white" width=150 height=50/>
-</a>
+
 </p>
 
 ---
