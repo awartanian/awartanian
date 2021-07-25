@@ -1,4 +1,4 @@
-![image info](./MERN.jpg)
+![image info](./MERN-pic.png)
 
 <h2> Hey there! I'm Arty!</h2>
 
