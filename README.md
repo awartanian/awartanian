@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🧐 &nbsp; Motivated, self-driven. 
+- 🧐 &nbsp; Motivated, self-driven and loving my new found passion in coding. 
 - 🎓 &nbsp; Completed a full-stack web development course at DCI Digital Career Institute gGmbH.
 - 🌱 &nbsp; Working as a Junior Frontend Developer at 9elements. 
 
