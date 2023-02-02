@@ -4,7 +4,7 @@
 
 - 🧐 &nbsp; Motivated, self-driven and loving my new found passion in coding. 
 - 🎓 &nbsp; Completed a full-stack web development course at DCI Digital Career Institute gGmbH.
-- 🌱 &nbsp; Working as a Junior Frontend Developer at 9elements. 
+- 🌱 &nbsp; Working as a UI designer at ePages. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
